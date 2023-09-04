@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="health_prototype.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="health bar for konic0000" x="0" y="0" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0001" x="0" y="0" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0002" x="0" y="212" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0003" x="0" y="212" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0004" x="0" y="424" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0005" x="0" y="424" width="1307" height="212"/>
+	<SubTexture name="health bar for konic0006" x="0" y="212" width="1307" height="212"/>
+</TextureAtlas>
