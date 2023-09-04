@@ -1,0 +1,739 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "wood zone normal",
+		"player1": "bf",
+		"player2": "faker-soulmore",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"2"
+					]
+				]
+			],
+			[
+				31.25,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"800"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.82",
+						"0.7"
+					]
+				]
+			],
+			[
+				15993.75,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"22"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.83",
+						"1"
+					]
+				]
+			],
+			[
+				46000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.92",
+						"1"
+					]
+				]
+			],
+			[
+				47962.5,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48062.5,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48078.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48100,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48125,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48156.25,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48171.875,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48221.875,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48259.375,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48284.375,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48306.25,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48328.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48353.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48378.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48418.75,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48446.875,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48490.625,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48528.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48584.375,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48631.25,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48653.125,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48666.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.00001"
+					]
+				]
+			],
+			[
+				48750,
+				[
+					[
+						"UI Fade",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48875,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"9999"
+					]
+				]
+			],
+			[
+				49000,
+				[
+					[
+						"Red Flash Camera",
+						"asdasd",
+						""
+					]
+				]
+			],
+			[
+				49125,
+				[
+					[
+						"Change Character",
+						"dad",
+						"soulmore"
+					]
+				]
+			],
+			[
+				49375,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				49750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50187.5,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50375,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50562.5,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				50937.5,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				51125,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				51312.5,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				51500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				51781.25,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				52062.5,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				52329.6875,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				52332.03125,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				52336.71875,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52343.75,
+				[
+					[
+						"stage test",
+						"wood zone night",
+						""
+					]
+				]
+			],
+			[
+				52437.5,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				52531.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"aod bf"
+					]
+				]
+			],
+			[
+				52625,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf soulmore aod"
+					]
+				]
+			],
+			[
+				100250,
+				[
+					[
+						"Image Flash",
+						"r",
+						"1"
+					]
+				]
+			],
+			[
+				100437.5,
+				[
+					[
+						"Set Cam Zoom",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				100531.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf pixel aod"
+					]
+				]
+			],
+			[
+				100625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SoulMore_pixel"
+					]
+				]
+			],
+			[
+				100718.75,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfm"
+					]
+				]
+			],
+			[
+				102406.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				105406.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				112250,
+				[
+					[
+						"Set Cam Zoom",
+						"4",
+						"0.2"
+					]
+				]
+			],
+			[
+				113750,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				125281.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				129406.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				130156.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				136329.6875,
+				[
+					[
+						"Image Flash",
+						"r",
+						"1"
+					]
+				]
+			],
+			[
+				136343.75,
+				[
+					[
+						"Set Cam Zoom",
+						"0.825",
+						"2"
+					]
+				]
+			],
+			[
+				136430.46875,
+				[
+					[
+						"Change Character",
+						"bf",
+						"aod bf"
+					]
+				]
+			],
+			[
+				136437.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"soulmore"
+					]
+				]
+			],
+			[
+				136531.25,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf soulmore aod"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf soulmore",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "abyss-of-despair"
+	}
+}
