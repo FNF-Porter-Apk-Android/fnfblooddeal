@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="konic frame.png">
+<SubTexture name="konic frame white0000" x="533" y="0" width="534" height="125" frameX="-37" frameY="-92" frameWidth="632" frameHeight="239" />
+<SubTexture name="konic frame white0001" x="0" y="0" width="533" height="127" frameX="-38" frameY="-92" frameWidth="632" frameHeight="239" />
+<SubTexture name="konic frame basic0000" x="0" y="127" width="492" height="113" frameX="-60" frameY="-100" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

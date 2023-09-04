@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soulmore frame.png">
+<SubTexture name="soulmore frame basic0000" x="0" y="424" width="578" height="187" frameX="-13" frameY="-54" frameWidth="1286" frameHeight="730" />
+<SubTexture name="soulmore frame white0000" x="0" y="0" width="623" height="221" frameX="-9" frameY="-13" frameWidth="632" frameHeight="239" />
+<SubTexture name="soulmore frame white0001" x="0" y="221" width="603" height="203" frameX="-10" frameY="-11" frameWidth="632" frameHeight="239" />
+</TextureAtlas>

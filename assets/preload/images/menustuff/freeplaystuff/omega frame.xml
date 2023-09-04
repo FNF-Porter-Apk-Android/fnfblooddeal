@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omega frame.png">
+<SubTexture name="omega frame white0000" x="0" y="0" width="545" height="169" frameX="-25" frameY="-70" frameWidth="632" frameHeight="239" />
+<SubTexture name="omega frame white0001" x="0" y="169" width="544" height="169" frameX="-26" frameY="-70" frameWidth="632" frameHeight="239" />
+<SubTexture name="omega frame basic0000" x="0" y="338" width="508" height="160" frameX="-46" frameY="-75" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

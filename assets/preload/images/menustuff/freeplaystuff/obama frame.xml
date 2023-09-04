@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="obama frame.png">
+<SubTexture name="obama frame white0000" x="0" y="0" width="430" height="151" frameX="-90" frameY="-75" frameWidth="632" frameHeight="239" />
+<SubTexture name="obama frame white0001" x="430" y="0" width="432" height="148" frameX="-89" frameY="-76" frameWidth="632" frameHeight="239" />
+<SubTexture name="obama frame basic0000" x="0" y="151" width="400" height="135" frameX="-105" frameY="-82" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

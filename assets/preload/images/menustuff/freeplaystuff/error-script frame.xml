@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="error-script frame.png">
+<SubTexture name="error-script frame white0000" x="0" y="0" width="515" height="156" frameX="-45" frameY="-73" frameWidth="632" frameHeight="239" />
+<SubTexture name="error-script frame white0001" x="515" y="0" width="517" height="153" frameX="-44" frameY="-73" frameWidth="632" frameHeight="239" />
+<SubTexture name="error-script frame basic0000" x="0" y="156" width="480" height="138" frameX="-62" frameY="-81" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>
