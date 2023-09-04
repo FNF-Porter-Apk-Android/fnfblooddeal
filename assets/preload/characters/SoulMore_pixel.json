@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-106
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SoulMoreIdle"
+		},
+		{
+			"offsets": [
+				24,
+				-107
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SoulMoreLeft"
+		},
+		{
+			"offsets": [
+				19,
+				-106
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SoulMoreRight"
+		},
+		{
+			"offsets": [
+				19,
+				-107
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SoulMoreDown"
+		},
+		{
+			"offsets": [
+				19,
+				-105
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SoulMoreUp"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SoulMore_pixel",
+	"position": [
+		-240,
+		-1390
+	],
+	"healthicon": "soulmore p",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		45,
+		84
+	],
+	"camera_position": [
+		-170,
+		212
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999997
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				175,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "charo left0"
+		},
+		{
+			"offsets": [
+				223,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "charo right0"
+		},
+		{
+			"offsets": [
+				64,
+				457
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "charo up0"
+		},
+		{
+			"offsets": [
+				380,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "charo down0"
+		},
+		{
+			"offsets": [
+				-5,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "charo idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/char0",
+	"position": [
+		150,
+		1400
+	],
+	"healthicon": "char0-invis",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		115,
+		0
+	],
+	"camera_position": [
+		-460,
+		-1310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

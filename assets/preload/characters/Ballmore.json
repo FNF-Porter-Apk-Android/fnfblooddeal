@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SOUL SUS IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				111
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SOUL SUS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SOUL SUS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-203,
+				111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SOUL SUS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SOUL SUS UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SOUL_SUS",
+	"position": [
+		-330,
+		-40
+	],
+	"healthicon": "ballmore",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		60
+	],
+	"camera_position": [
+		70,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "konic idle"
+		},
+		{
+			"offsets": [
+				94,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "konic right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "konic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "konic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "konic up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/konic",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "konic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		45,
+		204
+	],
+	"camera_position": [
+		-110,
+		130
+	],
+	"sing_duration": 7.20000000000001,
+	"scale": 1.1
+}

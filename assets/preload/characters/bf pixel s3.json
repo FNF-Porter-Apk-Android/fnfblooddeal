@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				534,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF DEATH End"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				14
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF DEATH Intro",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF LEFT NOTE instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF IDLE instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF DOWN NOTE instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF UP NOTE instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF RIGHT NOTE instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF LEFT MISS instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF DOWN MISS instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF UP MISS instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF RIGHT MISS instance "
+		},
+		{
+			"offsets": [
+				534,
+				-12
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF DEATH LOOP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BfS3",
+	"position": [
+		140,
+		530
+	],
+	"healthicon": "bf-s3",
+	"flip_x": true,
+	"healthbar_colors": [
+		36,
+		72,
+		216
+	],
+	"camera_position": [
+		320,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

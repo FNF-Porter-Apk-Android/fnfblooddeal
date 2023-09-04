@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fakermore idle"
+		},
+		{
+			"offsets": [
+				121,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fakermore left"
+		},
+		{
+			"offsets": [
+				95,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fakermore down"
+		},
+		{
+			"offsets": [
+				42,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fakermore up"
+		},
+		{
+			"offsets": [
+				-21,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fakermore right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/faker-soulmore",
+	"position": [
+		20,
+		20
+	],
+	"healthicon": "fake-soulmore",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		42,
+		150
+	],
+	"camera_position": [
+		10,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

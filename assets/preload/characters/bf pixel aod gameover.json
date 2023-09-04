@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				126,
+				131
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF DeathIntro"
+		},
+		{
+			"offsets": [
+				126,
+				131
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF DeathEnd"
+		},
+		{
+			"offsets": [
+				126,
+				131
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF DeathLoop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SoulBF",
+	"position": [
+		-1690,
+		-1322
+	],
+	"healthicon": "icon-bf-s1",
+	"flip_x": true,
+	"healthbar_colors": [
+		64,
+		64,
+		160
+	],
+	"camera_position": [
+		-69,
+		101
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

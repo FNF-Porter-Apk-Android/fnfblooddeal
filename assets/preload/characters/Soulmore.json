@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "soulmore idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-92
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "soulmore left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "soulmore down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "soulmore up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-106
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "soulmore right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-113
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "soulmore laugh 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soulmore-true",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon": "soulmore",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		45,
+		64
+	],
+	"camera_position": [
+		-50,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

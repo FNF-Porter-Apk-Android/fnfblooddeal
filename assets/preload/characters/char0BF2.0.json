@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				-4,
 				0
 			],
 			"loop": false,
@@ -10,50 +10,6 @@
 			"anim": "idle",
 			"indices": [],
 			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-20,
-				-51
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-46,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-48,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
 		},
 		{
 			"offsets": [
@@ -79,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-36,
 				27
 			],
 			"loop": false,
@@ -112,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				14,
+				15,
 				18
 			],
 			"loop": false,
@@ -197,13 +153,112 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				90,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "glitch hey",
+			"indices": [],
+			"name": "glitch hey"
+		},
+		{
+			"offsets": [
+				-11,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "glitch left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				40
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "glitch right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "glitch up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				120
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "glitch down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/char0BF",
 	"position": [
-		0,
-		350
+		270,
+		420
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -217,5 +272,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.8
 }

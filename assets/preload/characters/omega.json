@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 7,
+			"name": "omega idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "omega pop",
+			"fps": 11,
+			"name": "omega pop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "omega OO",
+			"indices": [],
+			"name": "omega OO"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "omega down"
+		},
+		{
+			"offsets": [
+				4,
+				-4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "omega up"
+		},
+		{
+			"offsets": [
+				3,
+				-5
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "omega right"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "omega left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "omega AAA",
+			"indices": [],
+			"name": "omega AAA"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "omega hart attack",
+			"indices": [],
+			"name": "omega hart attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "omega omg",
+			"fps": 11,
+			"name": "omega omg",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/omega",
+	"position": [
+		-260,
+		160
+	],
+	"healthicon": "omega",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		140,
+		170
+	],
+	"camera_position": [
+		280,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.800000000000019
+}
