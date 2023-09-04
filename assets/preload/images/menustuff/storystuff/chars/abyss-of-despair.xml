@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abyss-of-despair.png">
+<SubTexture name="soulmore story mode idle0000" x="74" y="0" width="37" height="54" frameX="-1" frameY="-1" frameWidth="39" frameHeight="56" />
+<SubTexture name="soulmore story mode idle0001" x="0" y="55" width="36" height="54" frameX="-2" frameY="-1" frameWidth="39" frameHeight="56" />
+<SubTexture name="soulmore story mode idle0002" x="0" y="0" width="36" height="55" frameX="-2" frameY="0" frameWidth="39" frameHeight="56" />
+<SubTexture name="soulmore story mode idle0003" x="36" y="0" width="38" height="55" frameX="0" frameY="0" frameWidth="39" frameHeight="56" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sealed.png">
+<SubTexture name="omega story mode idle0000" x="50" y="0" width="27" height="38" frameX="-2" frameY="-3" frameWidth="33" frameHeight="42" />
+<SubTexture name="omega story mode idle0001" x="25" y="0" width="25" height="39" frameX="-4" frameY="-2" frameWidth="33" frameHeight="42" />
+<SubTexture name="omega story mode idle0002" x="0" y="0" width="25" height="40" frameX="-4" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="omega story mode idle0003" x="77" y="0" width="28" height="38" frameX="-1" frameY="-3" frameWidth="33" frameHeight="42" />
+</TextureAtlas>

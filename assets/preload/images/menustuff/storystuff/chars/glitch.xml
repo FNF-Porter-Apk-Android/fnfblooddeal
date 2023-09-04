@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitch.png">
+<SubTexture name="char0.json story mode idle0000" x="30" y="0" width="31" height="58" frameX="-9" frameY="-1" frameWidth="42" frameHeight="59" />
+<SubTexture name="char0.json story mode idle0001" x="61" y="0" width="36" height="57" frameX="-6" frameY="-2" frameWidth="42" frameHeight="59" />
+<SubTexture name="char0.json story mode idle0002" x="0" y="0" width="30" height="59" frameX="-9" frameY="0" frameWidth="42" frameHeight="59" />
+</TextureAtlas>

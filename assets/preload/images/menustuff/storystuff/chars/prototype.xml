@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="prototype.png">
+<SubTexture name="konic story mode idle0000" x="0" y="0" width="31" height="43" frameX="-7" frameY="-4" frameWidth="43" frameHeight="47" />
+<SubTexture name="konic story mode idle0001" x="31" y="0" width="30" height="43" frameX="-8" frameY="-4" frameWidth="43" frameHeight="47" />
+<SubTexture name="konic story mode idle0002" x="61" y="0" width="30" height="43" frameX="-8" frameY="-4" frameWidth="43" frameHeight="47" />
+<SubTexture name="konic story mode idle0003" x="0" y="43" width="33" height="42" frameX="-5" frameY="-5" frameWidth="43" frameHeight="47" />
+</TextureAtlas>

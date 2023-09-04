@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freezing.png">
+<SubTexture name="error script story mode idle0000" x="0" y="0" width="27" height="40" frameX="-2" frameY="-2" frameWidth="33" frameHeight="42" />
+<SubTexture name="error script story mode idle0001" x="27" y="0" width="25" height="39" frameX="-4" frameY="-3" frameWidth="33" frameHeight="42" />
+<SubTexture name="error script story mode idle0002" x="52" y="0" width="25" height="39" frameX="-5" frameY="-3" frameWidth="33" frameHeight="42" />
+<SubTexture name="error script story mode idle0003" x="77" y="0" width="25" height="39" frameX="-6" frameY="-3" frameWidth="33" frameHeight="42" />
+</TextureAtlas>

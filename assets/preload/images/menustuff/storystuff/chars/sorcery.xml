@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sorcery.png">
+<SubTexture name="obama story mode idle0000" x="0" y="0" width="30" height="41" frameX="-3" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="obama story mode idle0001" x="0" y="41" width="29" height="40" frameX="-4" frameY="-2" frameWidth="33" frameHeight="42" />
+<SubTexture name="obama story mode idle0002" x="30" y="0" width="29" height="41" frameX="-4" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="obama story mode idle0003" x="59" y="0" width="30" height="41" frameX="-3" frameY="-1" frameWidth="33" frameHeight="42" />
+</TextureAtlas>

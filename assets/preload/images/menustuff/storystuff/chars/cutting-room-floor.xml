@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cutting-room-floor.png">
+<SubTexture name="unused story mode idle0000" x="0" y="0" width="32" height="41" frameX="-1" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="unused story mode idle0001" x="32" y="0" width="32" height="41" frameX="-1" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="unused story mode idle0002" x="64" y="0" width="32" height="41" frameX="-1" frameY="-1" frameWidth="33" frameHeight="42" />
+<SubTexture name="unused story mode idle0003" x="0" y="41" width="33" height="41" frameX="0" frameY="-1" frameWidth="33" frameHeight="42" />
+</TextureAtlas>
