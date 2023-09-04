@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF.png">
+<SubTexture name="GF DanceLeft0000" x="0" y="0" width="27" height="40" frameX="-3" frameY="-2" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceLeft0001" x="52" y="40" width="28" height="38" frameX="-2" frameY="-3" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceLeft0002" x="27" y="0" width="26" height="40" frameX="-4" frameY="-1" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceLeft0003" x="53" y="0" width="26" height="40" frameX="-5" frameY="-1" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceRight0000" x="79" y="0" width="26" height="40" frameX="-5" frameY="-1" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceRight0001" x="105" y="0" width="30" height="38" frameX="-3" frameY="-4" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceRight0002" x="105" y="38" width="27" height="38" frameX="-5" frameY="-3" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceRight0003" x="0" y="40" width="26" height="40" frameX="-5" frameY="-1" frameWidth="34" frameHeight="43" />
+<SubTexture name="GF DanceRight0004" x="26" y="40" width="26" height="40" frameX="-5" frameY="-1" frameWidth="34" frameHeight="43" />
+</TextureAtlas>
