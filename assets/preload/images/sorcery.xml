@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sorcery.png">
+<SubTexture name="sorcery haha0000" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0001" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0002" x="534" y="1700" width="321" height="157" frameX="-624" frameY="-310" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0003" x="0" y="1233" width="913" height="467" frameX="-32" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0004" x="1280" y="0" width="859" height="506" frameX="-32" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0005" x="0" y="720" width="788" height="513" frameX="-65" frameY="-38" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0006" x="0" y="720" width="788" height="513" frameX="-65" frameY="-38" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0007" x="1280" y="506" width="729" height="494" frameX="-258" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0008" x="1280" y="506" width="729" height="494" frameX="-258" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0009" x="1280" y="1000" width="657" height="228" frameX="-356" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0010" x="1280" y="1000" width="657" height="228" frameX="-356" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0011" x="788" y="720" width="471" height="388" frameX="-450" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0012" x="913" y="1233" width="478" height="384" frameX="-450" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0013" x="913" y="1233" width="478" height="384" frameX="-450" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0014" x="1391" y="1233" width="553" height="286" frameX="-375" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0015" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0016" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0017" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0018" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0019" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0020" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0021" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0022" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sorcery haha0023" x="0" y="1700" width="534" height="286" frameX="-394" frameY="-237" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
