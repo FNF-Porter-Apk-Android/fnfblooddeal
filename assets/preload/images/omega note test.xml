@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="omega note test.png">
+
+<SubTexture name="omega note test blue0000" x="0" y="0" width="529" height="254" frameX="-905" frameY="0" frameWidth="2048" frameHeight="1024" />
+</TextureAtlas>
