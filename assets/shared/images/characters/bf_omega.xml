@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf omega.png">
+<SubTexture name="bf omega down0000" x="4387" y="4397" width="880" height="787" frameX="-2" frameY="-179" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega down0001" x="5330" y="0" width="885" height="761" frameX="-8" frameY="-204" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega down0002" x="0" y="5199" width="892" height="751" frameX="-6" frameY="-216" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mdown0000" x="901" y="4397" width="884" height="791" frameX="-1" frameY="-177" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mdown0001" x="1785" y="4397" width="884" height="791" frameX="-1" frameY="-177" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mdown0002" x="2669" y="4397" width="884" height="791" frameX="-1" frameY="-177" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega idle0000" x="4438" y="809" width="780" height="808" frameX="-19" frameY="-161" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega idle0001" x="4438" y="1617" width="790" height="803" frameX="-18" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega idle0002" x="4438" y="3223" width="802" height="794" frameX="-16" frameY="-179" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega idle0003" x="3553" y="4397" width="834" height="790" frameX="-3" frameY="-184" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega idle0004" x="4438" y="2420" width="808" height="803" frameX="0" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega left0000" x="3486" y="3581" width="871" height="810" frameX="-14" frameY="-158" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega left0001" x="842" y="2753" width="847" height="821" frameX="-7" frameY="-145" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega left0002" x="0" y="2753" width="842" height="828" frameX="-3" frameY="-144" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mleft0000" x="1689" y="2753" width="881" height="818" frameX="-9" frameY="-154" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mleft0001" x="2570" y="2753" width="881" height="818" frameX="-9" frameY="-154" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mleft0002" x="3451" y="2753" width="881" height="818" frameX="-9" frameY="-154" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega right0000" x="2616" y="3581" width="870" height="814" frameX="-12" frameY="-160" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega right0001" x="4438" y="0" width="892" height="809" frameX="0" frameY="-169" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega right0002" x="0" y="4397" width="901" height="802" frameX="-1" frameY="-173" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mright0000" x="0" y="3581" width="872" height="816" frameX="-11" frameY="-159" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mright0001" x="872" y="3581" width="872" height="816" frameX="-11" frameY="-159" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mright0002" x="1744" y="3581" width="872" height="816" frameX="-11" frameY="-159" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega up0000" x="2652" y="1840" width="866" height="831" frameX="-15" frameY="-139" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega up0001" x="1774" y="1840" width="878" height="859" frameX="-1" frameY="-115" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega up0002" x="893" y="1840" width="881" height="884" frameX="-1" frameY="-90" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mup0000" x="3572" y="0" width="866" height="831" frameX="-15" frameY="-139" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mup0001" x="3572" y="831" width="866" height="831" frameX="-15" frameY="-139" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega mup0002" x="3572" y="1662" width="866" height="831" frameX="-15" frameY="-139" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega a0000" x="5330" y="761" width="19" height="10" frameX="0" frameY="0" frameWidth="19" frameHeight="10" />
+<SubTexture name="bf omega dead0000" x="1786" y="920" width="893" height="913" frameX="-10" frameY="-65" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega dead0001" x="2679" y="0" width="893" height="913" frameX="-10" frameY="-65" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega dead0002" x="2679" y="913" width="893" height="913" frameX="-10" frameY="-65" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega dead0003" x="0" y="1840" width="893" height="913" frameX="-10" frameY="-65" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega cool0000" x="0" y="0" width="893" height="920" frameX="-10" frameY="-58" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega cool0001" x="893" y="0" width="893" height="920" frameX="-10" frameY="-58" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega cool0002" x="1786" y="0" width="893" height="920" frameX="-10" frameY="-58" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega cool0003" x="0" y="920" width="893" height="920" frameX="-10" frameY="-58" frameWidth="903" frameHeight="978" />
+<SubTexture name="bf omega cool0004" x="893" y="920" width="893" height="920" frameX="-10" frameY="-58" frameWidth="903" frameHeight="978" />
+</TextureAtlas>

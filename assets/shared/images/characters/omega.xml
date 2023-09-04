@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omega.png">
+<SubTexture name="omega hart attack0000" x="2158" y="1921" width="621" height="841" frameX="-174" frameY="-130" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0001" x="0" y="1921" width="744" height="864" frameX="-148" frameY="-107" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0002" x="744" y="1921" width="753" height="847" frameX="-140" frameY="-125" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0003" x="4100" y="0" width="828" height="808" frameX="-66" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0004" x="4100" y="0" width="828" height="808" frameX="-66" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0005" x="4100" y="1615" width="825" height="806" frameX="-69" frameY="-172" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0006" x="4100" y="0" width="828" height="808" frameX="-66" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0007" x="4100" y="1615" width="825" height="806" frameX="-69" frameY="-172" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0008" x="4100" y="0" width="828" height="808" frameX="-66" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0009" x="4100" y="1615" width="825" height="806" frameX="-69" frameY="-172" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0010" x="4100" y="0" width="828" height="808" frameX="-66" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0011" x="4100" y="1615" width="825" height="806" frameX="-69" frameY="-172" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0012" x="2950" y="3604" width="788" height="765" frameX="-107" frameY="-208" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0013" x="1430" y="3604" width="779" height="766" frameX="-109" frameY="-211" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0014" x="2209" y="3604" width="741" height="766" frameX="-137" frameY="-209" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0015" x="3738" y="3604" width="736" height="746" frameX="-151" frameY="-227" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0016" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0017" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0018" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0019" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0020" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega hart attack0021" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega pop0000" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega omg0000" x="4928" y="0" width="739" height="741" frameX="-156" frameY="-232" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega omg0001" x="4100" y="808" width="709" height="807" frameX="-160" frameY="-165" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega omg0002" x="1728" y="973" width="747" height="905" frameX="-123" frameY="-64" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega omg0003" x="2670" y="0" width="787" height="903" frameX="-94" frameY="-68" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega omg0004" x="901" y="973" width="827" height="924" frameX="-61" frameY="-51" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega AAA0000" x="885" y="0" width="882" height="972" frameX="-18" frameY="0" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega AAA0001" x="0" y="0" width="885" height="973" frameX="-13" frameY="0" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega OO0000" x="0" y="973" width="901" height="948" frameX="0" frameY="-26" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega OO0001" x="1767" y="0" width="903" height="956" frameX="0" frameY="-18" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega idle0000" x="2779" y="1921" width="591" height="823" frameX="-134" frameY="-146" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega idle0001" x="4100" y="2421" width="593" height="804" frameX="-139" frameY="-163" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega idle0002" x="3475" y="2785" width="609" height="798" frameX="-135" frameY="-169" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega idle0003" x="2881" y="2785" width="594" height="811" frameX="-138" frameY="-157" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega down0000" x="3457" y="820" width="620" height="815" frameX="-151" frameY="-154" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega down0001" x="751" y="3604" width="679" height="776" frameX="-138" frameY="-193" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega down0002" x="4928" y="741" width="652" height="735" frameX="-127" frameY="-233" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega left0000" x="3457" y="0" width="643" height="820" frameX="-126" frameY="-154" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega left0001" x="0" y="2785" width="701" height="819" frameX="-88" frameY="-159" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega left0002" x="1426" y="2785" width="817" height="812" frameX="-40" frameY="-163" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega right0000" x="3457" y="1635" width="624" height="812" frameX="-129" frameY="-156" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega right0001" x="701" y="2785" width="725" height="815" frameX="-88" frameY="-152" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega right0002" x="0" y="3604" width="751" height="797" frameX="-75" frameY="-170" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega up0000" x="2243" y="2785" width="638" height="812" frameX="-126" frameY="-151" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega up0001" x="1497" y="1921" width="661" height="847" frameX="-131" frameY="-117" frameWidth="903" frameHeight="978" />
+<SubTexture name="omega up0002" x="2670" y="903" width="745" height="883" frameX="-95" frameY="-81" frameWidth="903" frameHeight="978" />
+</TextureAtlas>
